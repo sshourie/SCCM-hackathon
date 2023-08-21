@@ -11,3 +11,25 @@ We used two critical care databases:[ MIMIC-IV](https://physionet.org/content/mi
 #### BigQuery and Colab: 
 
 We used [BigQuery](https://console.cloud.google.com/bigquery?project=sccm-datathon) to easily explore the large datasets using SQL. 
+
+The colab/ipynb notebooks on this repository are definetly not perfect as they were done in collobration, are messy, untidy, buggy etc.
+
+
+#### Sample projects from SCCM on how to work on the databases:
+
+
+Notebook 1 (eICU): Exploring the patient table. Open In Colab
+
+Notebook 2 (eICU): Severity of illness. Open In Colab
+
+Notebook 3 (eICU): Summary statistics. Open In Colab
+
+Notebook 4 (eICU): Timeseries. Open In Colab
+
+Notebook 5 (eICU): Mortality prediction. Open In Colab
+
+Notebook 6 (eICU): Acute kidney injury. Open In Colab
+
+Notebook 7 (eICU): Project work. Open In Colab
+
+Notebook 8 (MIMIC): Weekend effect on mortality. Open In Colab
