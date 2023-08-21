@@ -17,19 +17,18 @@ The colab/ipynb notebooks on this repository are definetly not perfect as they w
 
 #### Sample projects from SCCM on how to work on the databases:
 
+Notebook 1 (eICU): Exploring the patient table. <a href="https://colab.research.google.com/github/MIT-LCP/sccm-datathon/blob/master/01_explore_patients.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-Notebook 1 (eICU): Exploring the patient table. Open In Colab
+Notebook 2 (eICU): Severity of illness. <a href="https://colab.research.google.com/github/MIT-LCP/sccm-datathon/blob/master/02_severity_of_illness.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-Notebook 2 (eICU): Severity of illness. Open In Colab
+Notebook 3 (eICU): Summary statistics. <a href="https://colab.research.google.com/github/MIT-LCP/sccm-datathon/blob/master/03_summary_statistics.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-Notebook 3 (eICU): Summary statistics. Open In Colab
+Notebook 4 (eICU): Timeseries. <a href="https://colab.research.google.com/github/MIT-LCP/sccm-datathon/blob/master/04_timeseries.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-Notebook 4 (eICU): Timeseries. Open In Colab
+Notebook 5 (eICU): Mortality prediction. <a href="https://colab.research.google.com/github/MIT-LCP/sccm-datathon/blob/master/05_mortality_prediction.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-Notebook 5 (eICU): Mortality prediction. Open In Colab
+Notebook 6 (eICU): Acute kidney injury. <a href="https://colab.research.google.com/github/MIT-LCP/sccm-datathon/blob/master/06_aki_project.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-Notebook 6 (eICU): Acute kidney injury. Open In Colab
+Notebook 7 (eICU): Project work. <a href="https://colab.research.google.com/github/MIT-LCP/sccm-datathon/blob/master/07_project_work.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-Notebook 7 (eICU): Project work. Open In Colab
-
-Notebook 8 (MIMIC): Weekend effect on mortality. Open In Colab
+Notebook 8 (MIMIC): Weekend effect on mortality. <a href="https://colab.research.google.com/github/MIT-LCP/sccm-datathon/blob/master/mimic-weekend-effect.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
